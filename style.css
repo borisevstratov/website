@@ -200,3 +200,11 @@ ul li {
 		font-size: 9px;
 	}
 }
+
+.screenshot {
+	display: block;
+	width: 100%;
+	max-width: 1084px;
+	height: auto;
+	margin: 10px 0;
+}
